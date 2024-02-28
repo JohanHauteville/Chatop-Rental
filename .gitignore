@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### connexion properties ###
+application.properties
